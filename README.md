@@ -13,7 +13,7 @@ The first table contains a json include and bubble edit.
 
 http://localhost:3000/tables/datatable
 
-When pressing a field, "bubble edit" is started, but not vissible.
+When pressing a field, "bubble edit" is started, but not vissible. You can see this by some minor font-change.
 
 I need some help to get this working on this specific layout.
 
